@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel Casado</h1>
-<h3 align="center">I'm a 20-year-old software developer based in Madrid with a strong passion for software development and programming. I also have a keen interest in UI design. Currently, I'm actively working on Aitaca!</h3>
+<h3 align="center">I'm a 20-year-old software developer based in Madrid with a strong passion for software development and programming. I also have a keen interest in UI design.</h3>
 <image align="right" alt="coding_cat" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
 - 🔭 I’m currently working on Avys, an all-in-one fintech app
 
