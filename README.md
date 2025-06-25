@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **miguelcasadoluque1@gmail.com**
 
-- ⚡ Fun fact *my first web was a cat wikipedia...🐱🐾**
+- ⚡ Fun fact *my first web was a cat wikipedia at 11 years old...🐱🐾**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
